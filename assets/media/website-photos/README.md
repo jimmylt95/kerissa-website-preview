@@ -1,0 +1,1 @@
+KeriBloom website photo assets. Upload the renamed website photos here.
