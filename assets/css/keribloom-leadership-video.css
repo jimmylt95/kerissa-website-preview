@@ -142,8 +142,9 @@
 .kb-video-frame video {
   display: block;
   width: 100%;
-  aspect-ratio: 3 / 4;
-  max-height: 650px;
+  height: auto;
+  aspect-ratio: auto;
+  max-height: none;
   object-fit: contain;
   background: #000;
 }
